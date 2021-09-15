@@ -1,0 +1,22 @@
+.header{
+    box-shadow : 5px 5px 5px darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    margin-top : 0px;
+    width:100%;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.heading_div{
+    background : white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: black;
+    float:none;
+}
+
+.person_div, .accuracy_div{
+    box-shadow: 5px 5px 5px orangered;
+}
